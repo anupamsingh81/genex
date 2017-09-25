@@ -1,0 +1,9 @@
+{
+    "path" : "~/Downloads/gene_xpert/genexpert",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

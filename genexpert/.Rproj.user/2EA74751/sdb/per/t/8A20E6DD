@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1506189673308.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8A20E6DD",
+    "lastKnownWriteTime" : 6029419,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "lnp3t12b7a",
+        "caption" : "master2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=master2&cache_key=lnp3t12b7a",
+        "displayedObservations" : "765",
+        "environment" : "",
+        "object" : "master2",
+        "totalObservations" : "765",
+        "variables" : "14"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
